@@ -1,0 +1,52 @@
+{
+    "guess":[
+		{
+			"gueImg":"./data/images/gue01.webp",
+			"gueTxt":"怡泉 Schweppes 柠檬味br 苏打水 汽水饮料 零糖零卡 400ml*12瓶 整箱装 可口可乐出品",
+			"gueSpan1":"领劵99-10",
+			"gueSpan2":"",
+            "money":"￥41.5",
+            "zy":"自营"
+		},
+		{
+			"gueImg":"./data/images/gue02.webp",
+			"gueTxt":"可口可乐 纯悦包装饮用水 550ml*24瓶 箱装",
+			"gueSpan1":"",
+			"gueSpan2":"",
+            "money":"￥30.5",
+            "zy":""
+		},
+		{
+			"gueImg":"./data/images/gue03.webp",
+			"gueTxt":"韩国龙田 工业吊瓶式蒸汽式电熨斗工厂 家用干洗店电烫斗",
+			"gueSpan1":"",
+			"gueSpan2":"",
+            "money":"￥590",
+            "zy":""
+        },
+        {
+			"gueImg":"./data/images/gue04.webp",
+			"gueTxt":"毛衣服起球修剪器充电式衣物剃打刮吸毛球机家用去除毛球神器",
+			"gueSpan1":"",
+			"gueSpan2":"",
+            "money":"￥90",
+            "zy":""
+        },
+        {
+			"gueImg":"./data/images/gue05.webp",
+			"gueTxt":"小米（MI）电视 4A 32英寸 高清人工智能液晶屏网络平板电视机 1+4GB内存 L32M5-AZ",
+			"gueSpan1":"大聚惠",
+			"gueSpan2":"",
+            "money":"￥699",
+            "zy":"自营"
+        },
+        {
+			"gueImg":"./data/images/gue06.webp",
+			"gueTxt":"荣事达（Royalstar）养生壶1.5L YSH150H多功能电热水壶高硼硅玻璃壶触控式煎药壶花茶器煲茶壶烧水壶",
+			"gueSpan1":"领券99-10",
+			"gueSpan2":"",
+            "money":"￥79.9",
+            "zy":"自营"
+		}
+	]
+}
